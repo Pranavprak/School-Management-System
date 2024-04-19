@@ -46,7 +46,7 @@ The project follows the Maven directory structure, ensuring a clean and organize
 ### Build and Run
 1. Clone the repository:
 ```
-git clone git@github.com:CSYE6200-Object-Oriented-DesignFall2023/final-project-final-group-15.git
+git clone git@github.com:Pranavprak/School-Management-System.git
 ```
 3. Navigate to the project directory:
 4. Set up the MySQL database
